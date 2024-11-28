@@ -10,6 +10,10 @@ I've been a Senior Software Developer for some 30 years working in many differen
 + Not to mention the obilgatory Web Site stuff many of us get involved in
 + Private contract work when the occasion rises
 
+Being a full stack developer my primary development languages these days are VB.Net and C#; SQL server databases; throw in supporting technologies like HTML / ASP.Net / Javascript / XML / JSON / CSS etc. But always trying to learn as that is what us Engineers do.
+
+I'm new on GitHub (2024) as projects I've contributed to over the years have slowly moved over here so about time I did too. I'll also be slowing moving some of my own stuff over here and making some Public.
+
 
 <!--
 **ZADSoft/ZADSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
