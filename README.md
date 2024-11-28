@@ -6,9 +6,9 @@ I've been a Senior Software Developer for some 30 years working in many differen
 + Marketing / Project Management / Sourcing Systems
 + Auto ID & RFID Systems for everything from Production Line tracking to Warehouse and GPS tracking etc
 + International Freight Forwarding systems for Sea and Air Freight
-+ Computer Aided Despatch Systems for the Emergency Services.
-+ Not to mention the obilgatory Web Site stuff many of of get involved in.
-+ Private contract work when the occasion rises.
++ Computer Aided Despatch Systems for the Emergency Services
++ Not to mention the obilgatory Web Site stuff many of us get involved in
++ Private contract work when the occasion rises
 
 
 <!--
